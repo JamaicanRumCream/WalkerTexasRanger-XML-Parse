@@ -24,5 +24,3 @@ www.paveglio.com
 
 ![debugger output](/images/img1.png "Output of debugger")
 ![xml file demo](/images/img2.png "xml file")
-=======
->>>>>>> cf6678397daf87fad5997923a7b4200ef88429d0
